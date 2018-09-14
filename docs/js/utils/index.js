@@ -1,0 +1,1 @@
+export const type = o => object.prototype.toString.call(o).slice(8,-1).toLowerCase();
